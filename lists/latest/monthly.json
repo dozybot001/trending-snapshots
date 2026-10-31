@@ -5,8 +5,8 @@
   "url": "https://github.com/cloudflare/security-audit-skill",
   "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
   "language": "JavaScript",
-  "stars": 54209,
-  "forks": 3506,
+  "stars": 54371,
+  "forks": 3523,
   "periodStars": 30721
  },
  {
@@ -15,8 +15,8 @@
   "url": "https://github.com/heygen-com/hyperframes",
   "description": "Write HTML. Render video. Built for agents.",
   "language": "TypeScript",
-  "stars": 76089,
-  "forks": 6936,
+  "stars": 76157,
+  "forks": 6946,
   "periodStars": 22149
  },
  {
@@ -25,8 +25,8 @@
   "url": "https://github.com/anthropics/knowledge-work-plugins",
   "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
   "language": "Python",
-  "stars": 34049,
-  "forks": 3750,
+  "stars": 34080,
+  "forks": 3757,
   "periodStars": 8279
  },
  {
@@ -35,8 +35,8 @@
   "url": "https://github.com/pbakaus/impeccable",
   "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
   "language": "Rust",
-  "stars": 97159,
-  "forks": 5720,
+  "stars": 97355,
+  "forks": 5736,
   "periodStars": 24624
  },
  {
@@ -45,8 +45,8 @@
   "url": "https://github.com/debpalash/VoiceStudio",
   "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
   "language": "Python",
-  "stars": 95829,
-  "forks": 10618,
+  "stars": 95980,
+  "forks": 10629,
   "periodStars": 49116
  },
  {
@@ -55,8 +55,8 @@
   "url": "https://github.com/earthtojake/text-to-cad",
   "description": "Design physical products with AI",
   "language": "Python",
-  "stars": 24363,
-  "forks": 2338,
+  "stars": 24387,
+  "forks": 2340,
   "periodStars": 7976
  },
  {
@@ -65,8 +65,8 @@
   "url": "https://github.com/Nutlope/hallmark",
   "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
   "language": "CSS",
-  "stars": 43045,
-  "forks": 2246,
+  "stars": 43198,
+  "forks": 2264,
   "periodStars": 13397
  },
  {
@@ -75,8 +75,8 @@
   "url": "https://github.com/mvschwarz/openrig",
   "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
   "language": "TypeScript",
-  "stars": 8387,
-  "forks": 693,
+  "stars": 8405,
+  "forks": 694,
   "periodStars": 6245
  },
  {
@@ -85,8 +85,8 @@
   "url": "https://github.com/anthropics/claude-plugins-official",
   "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
   "language": "Python",
-  "stars": 45454,
-  "forks": 4737,
+  "stars": 45472,
+  "forks": 4742,
   "periodStars": 8442
  },
  {
@@ -95,8 +95,8 @@
   "url": "https://github.com/thedotmack/claude-mem",
   "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
   "language": "TypeScript",
-  "stars": 106362,
-  "forks": 9364,
+  "stars": 106644,
+  "forks": 9384,
   "periodStars": 11124
  },
  {
@@ -105,8 +105,8 @@
   "url": "https://github.com/mksglu/context-mode",
   "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
   "language": "TypeScript",
-  "stars": 32951,
-  "forks": 2278,
+  "stars": 32964,
+  "forks": 2279,
   "periodStars": 8913
  },
  {
@@ -115,8 +115,8 @@
   "url": "https://github.com/pingdotgg/t3code",
   "description": "",
   "language": "TypeScript",
-  "stars": 32817,
-  "forks": 8662,
+  "stars": 33031,
+  "forks": 8677,
   "periodStars": 8676
  },
  {
@@ -125,8 +125,8 @@
   "url": "https://github.com/cursor/plugins",
   "description": "Cursor plugin specification and official plugins",
   "language": "TypeScript",
-  "stars": 14741,
-  "forks": 1518,
+  "stars": 14764,
+  "forks": 1520,
   "periodStars": 5817
  },
  {
@@ -135,8 +135,8 @@
   "url": "https://github.com/NationalSecurityAgency/ghidra",
   "description": "Ghidra is a software reverse engineering (SRE) framework",
   "language": "Java",
-  "stars": 96225,
-  "forks": 10859,
+  "stars": 96262,
+  "forks": 10863,
   "periodStars": 16470
  },
  {
@@ -145,8 +145,8 @@
   "url": "https://github.com/Leonxlnx/taste-skill",
   "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
   "language": "JavaScript",
-  "stars": 106387,
-  "forks": 7199,
+  "stars": 106477,
+  "forks": 7205,
   "periodStars": 15496
  },
  {
@@ -155,7 +155,7 @@
   "url": "https://github.com/flutter/flutter",
   "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
   "language": "Dart",
-  "stars": 180747,
+  "stars": 180764,
   "forks": 33391,
   "periodStars": 2145
  },
@@ -165,8 +165,8 @@
   "url": "https://github.com/affaan-m/ECC",
   "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
   "language": "JavaScript",
-  "stars": 293447,
-  "forks": 43425,
+  "stars": 293536,
+  "forks": 43435,
   "periodStars": 25494
  },
  {
@@ -175,8 +175,8 @@
   "url": "https://github.com/AgriciDaniel/claude-seo",
   "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
   "language": "Python",
-  "stars": 24557,
-  "forks": 3267,
+  "stars": 24631,
+  "forks": 3278,
   "periodStars": 6415
  },
  {
@@ -185,8 +185,8 @@
   "url": "https://github.com/android/skills",
   "description": "",
   "language": "Kotlin",
-  "stars": 10107,
-  "forks": 659,
+  "stars": 10114,
+  "forks": 660,
   "periodStars": 2506
  },
  {
@@ -195,8 +195,8 @@
   "url": "https://github.com/Panniantong/Agent-Reach",
   "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
   "language": "Python",
-  "stars": 106852,
-  "forks": 9499,
+  "stars": 106921,
+  "forks": 9505,
   "periodStars": 21207
  },
  {
@@ -205,8 +205,8 @@
   "url": "https://github.com/vercel-labs/skills",
   "description": "The open agent skills tool - npx skills",
   "language": "TypeScript",
-  "stars": 37307,
-  "forks": 3220,
+  "stars": 37339,
+  "forks": 3221,
   "periodStars": 4626
  },
  {
@@ -215,8 +215,8 @@
   "url": "https://github.com/tashfeenahmed/freellmapi",
   "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
   "language": "TypeScript",
-  "stars": 44706,
-  "forks": 6080,
+  "stars": 44794,
+  "forks": 6097,
   "periodStars": 15157
  }
 ]
