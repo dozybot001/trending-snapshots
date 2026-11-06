@@ -5,8 +5,8 @@
   "url": "https://github.com/NVIDIA/auto-ontology",
   "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
   "language": "Python",
-  "stars": 7584,
-  "forks": 606,
+  "stars": 7915,
+  "forks": 637,
   "periodStars": 2679
  },
  {
@@ -15,8 +15,8 @@
   "url": "https://github.com/mattpocock/skills",
   "description": "Skills for Real Engineers. Straight from my .agents directory.",
   "language": "Shell",
-  "stars": 315458,
-  "forks": 26411,
+  "stars": 315765,
+  "forks": 26429,
   "periodStars": 2071
  },
  {
@@ -25,8 +25,8 @@
   "url": "https://github.com/garrytan/gstack",
   "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
   "language": "TypeScript",
-  "stars": 140027,
-  "forks": 20700,
+  "stars": 140167,
+  "forks": 20708,
   "periodStars": 612
  },
  {
@@ -35,8 +35,8 @@
   "url": "https://github.com/Usagi-org/ai-goofish-monitor",
   "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
   "language": "Python",
-  "stars": 17739,
-  "forks": 2964,
+  "stars": 17951,
+  "forks": 2974,
   "periodStars": 240
  },
  {
@@ -45,8 +45,8 @@
   "url": "https://github.com/D4Vinci/Scrapling",
   "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
   "language": "Python",
-  "stars": 98144,
-  "forks": 10282,
+  "stars": 98357,
+  "forks": 10302,
   "periodStars": 1655
  },
  {
@@ -55,8 +55,8 @@
   "url": "https://github.com/vercel-labs/agent-desktop",
   "description": "Computer use CLI for AI agents",
   "language": "Rust",
-  "stars": 17070,
-  "forks": 1205,
+  "stars": 17362,
+  "forks": 1236,
   "periodStars": 2173
  },
  {
@@ -65,8 +65,8 @@
   "url": "https://github.com/max-sixty/worktrunk",
   "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
   "language": "Rust",
-  "stars": 11575,
-  "forks": 440,
+  "stars": 11656,
+  "forks": 447,
   "periodStars": 546
  },
  {
@@ -75,8 +75,8 @@
   "url": "https://github.com/lz4/lz4",
   "description": "Extremely Fast Compression algorithm",
   "language": "C",
-  "stars": 12410,
-  "forks": 1636,
+  "stars": 12472,
+  "forks": 1640,
   "periodStars": 23
  },
  {
@@ -85,8 +85,8 @@
   "url": "https://github.com/google/skills",
   "description": "Agent Skills for Google products and technologies",
   "language": "Python",
-  "stars": 22438,
-  "forks": 1895,
+  "stars": 22528,
+  "forks": 1897,
   "periodStars": 211
  },
  {
@@ -95,8 +95,8 @@
   "url": "https://github.com/vercel-labs/agent-browser",
   "description": "Browser automation CLI for AI agents",
   "language": "Rust",
-  "stars": 45984,
-  "forks": 3151,
+  "stars": 46103,
+  "forks": 3155,
   "periodStars": 150
  },
  {
@@ -105,8 +105,8 @@
   "url": "https://github.com/scenario-labs/skills",
   "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
   "language": "Python",
-  "stars": 3143,
-  "forks": 274,
+  "stars": 3252,
+  "forks": 282,
   "periodStars": 667
  },
  {
@@ -115,8 +115,8 @@
   "url": "https://github.com/ConardLi/garden-skills",
   "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
   "language": "JavaScript",
-  "stars": 14209,
-  "forks": 1653,
+  "stars": 14340,
+  "forks": 1658,
   "periodStars": 175
  },
  {
@@ -125,8 +125,8 @@
   "url": "https://github.com/microsoft/VibeVoice",
   "description": "Open-Source Frontier Voice AI",
   "language": "Python",
-  "stars": 56070,
-  "forks": 6309,
+  "stars": 56242,
+  "forks": 6334,
   "periodStars": 223
  },
  {
@@ -135,8 +135,8 @@
   "url": "https://github.com/floci-io/floci",
   "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
   "language": "Java",
-  "stars": 30491,
-  "forks": 3333,
+  "stars": 30621,
+  "forks": 3339,
   "periodStars": 779
  },
  {
@@ -145,8 +145,8 @@
   "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
   "description": "",
   "language": "C#",
-  "stars": 7367,
-  "forks": 263,
+  "stars": 7479,
+  "forks": 267,
   "periodStars": 984
  }
 ]
