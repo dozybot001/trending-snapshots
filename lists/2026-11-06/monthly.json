@@ -1,0 +1,122 @@
+[
+ {
+  "rank": 1,
+  "name": "morluto/rea",
+  "url": "https://github.com/morluto/rea",
+  "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+  "language": "TypeScript",
+  "stars": 434854,
+  "forks": 107913,
+  "periodStars": 430792
+ },
+ {
+  "rank": 2,
+  "name": "boykopovar/AnyPS5",
+  "url": "https://github.com/boykopovar/AnyPS5",
+  "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+  "language": "C++",
+  "stars": 51516,
+  "forks": 4903,
+  "periodStars": 47184
+ },
+ {
+  "rank": 3,
+  "name": "cloudflare/security-audit-skill",
+  "url": "https://github.com/cloudflare/security-audit-skill",
+  "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+  "language": "JavaScript",
+  "stars": 61803,
+  "forks": 4008,
+  "periodStars": 35956
+ },
+ {
+  "rank": 4,
+  "name": "Nutlope/hallmark",
+  "url": "https://github.com/Nutlope/hallmark",
+  "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+  "language": "CSS",
+  "stars": 48870,
+  "forks": 2589,
+  "periodStars": 19070
+ },
+ {
+  "rank": 5,
+  "name": "heygen-com/hyperframes",
+  "url": "https://github.com/heygen-com/hyperframes",
+  "description": "Write HTML. Render video. Built for agents.",
+  "language": "TypeScript",
+  "stars": 79636,
+  "forks": 7330,
+  "periodStars": 22694
+ },
+ {
+  "rank": 6,
+  "name": "debpalash/VoiceStudio",
+  "url": "https://github.com/debpalash/VoiceStudio",
+  "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+  "language": "Python",
+  "stars": 102045,
+  "forks": 11316,
+  "periodStars": 48803
+ },
+ {
+  "rank": 7,
+  "name": "NationalSecurityAgency/ghidra",
+  "url": "https://github.com/NationalSecurityAgency/ghidra",
+  "description": "Ghidra is a software reverse engineering (SRE) framework",
+  "language": "Java",
+  "stars": 98168,
+  "forks": 11111,
+  "periodStars": 17641
+ },
+ {
+  "rank": 8,
+  "name": "thedotmack/claude-mem",
+  "url": "https://github.com/thedotmack/claude-mem",
+  "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+  "language": "TypeScript",
+  "stars": 113610,
+  "forks": 9854,
+  "periodStars": 17621
+ },
+ {
+  "rank": 9,
+  "name": "pingdotgg/t3code",
+  "url": "https://github.com/pingdotgg/t3code",
+  "description": "",
+  "language": "TypeScript",
+  "stars": 48488,
+  "forks": 9637,
+  "periodStars": 22239
+ },
+ {
+  "rank": 10,
+  "name": "pbakaus/impeccable",
+  "url": "https://github.com/pbakaus/impeccable",
+  "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+  "language": "Rust",
+  "stars": 104050,
+  "forks": 6165,
+  "periodStars": 27205
+ },
+ {
+  "rank": 11,
+  "name": "anthropics/knowledge-work-plugins",
+  "url": "https://github.com/anthropics/knowledge-work-plugins",
+  "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+  "language": "Python",
+  "stars": 34885,
+  "forks": 3842,
+  "periodStars": 8823
+ },
+ {
+  "rank": 12,
+  "name": "HKUDS/DeepTutor",
+  "url": "https://github.com/HKUDS/DeepTutor",
+  "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+  "language": "Python",
+  "stars": 55528,
+  "forks": 6807,
+  "periodStars": 14748
+ }
+]
