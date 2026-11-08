@@ -5,8 +5,8 @@
   "url": "https://github.com/vercel-labs/agent-browser",
   "description": "Browser automation CLI for AI agents",
   "language": "Rust",
-  "stars": 46892,
-  "forks": 3213,
+  "stars": 47023,
+  "forks": 3222,
   "periodStars": 190
  },
  {
@@ -15,8 +15,8 @@
   "url": "https://github.com/cloudflare/security-audit-skill",
   "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
   "language": "JavaScript",
-  "stars": 65823,
-  "forks": 4276,
+  "stars": 66049,
+  "forks": 4296,
   "periodStars": 2085
  },
  {
@@ -25,8 +25,8 @@
   "url": "https://github.com/google/skills",
   "description": "Agent Skills for Google products and technologies",
   "language": "Python",
-  "stars": 23449,
-  "forks": 1959,
+  "stars": 23531,
+  "forks": 1967,
   "periodStars": 443
  },
  {
@@ -35,8 +35,8 @@
   "url": "https://github.com/mattpocock/skills",
   "description": "Skills for Real Engineers. Straight from my .agents directory.",
   "language": "Shell",
-  "stars": 317782,
-  "forks": 26585,
+  "stars": 317942,
+  "forks": 26604,
   "periodStars": 1100
  },
  {
@@ -45,8 +45,8 @@
   "url": "https://github.com/anthropics/skills",
   "description": "Public repository for Agent Skills",
   "language": "Python",
-  "stars": 188849,
-  "forks": 22261,
+  "stars": 188941,
+  "forks": 22271,
   "periodStars": 390
  },
  {
@@ -55,8 +55,8 @@
   "url": "https://github.com/meta/astryx",
   "description": "An open source design system that's fully customizable and agent ready",
   "language": "TypeScript",
-  "stars": 14604,
-  "forks": 1196,
+  "stars": 14768,
+  "forks": 1210,
   "periodStars": 96
  },
  {
@@ -65,8 +65,8 @@
   "url": "https://github.com/prometheus/prometheus",
   "description": "The Prometheus monitoring system and time series database.",
   "language": "Go",
-  "stars": 67456,
-  "forks": 11006,
+  "stars": 67491,
+  "forks": 11011,
   "periodStars": 322
  },
  {
@@ -75,8 +75,8 @@
   "url": "https://github.com/sherlock-project/sherlock",
   "description": "Hunt down social media accounts by username across social networks",
   "language": "Python",
-  "stars": 100643,
-  "forks": 11888,
+  "stars": 101104,
+  "forks": 11950,
   "periodStars": 1766
  },
  {
@@ -85,8 +85,8 @@
   "url": "https://github.com/milind-soni/OpenMausBot",
   "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
   "language": "TypeScript",
-  "stars": 17085,
-  "forks": 2416,
+  "stars": 17317,
+  "forks": 2439,
   "periodStars": 1955
  },
  {
@@ -95,8 +95,8 @@
   "url": "https://github.com/astral-sh/ruff",
   "description": "An extremely fast Python linter and code formatter, written in Rust.",
   "language": "Rust",
-  "stars": 50989,
-  "forks": 2633,
+  "stars": 51031,
+  "forks": 2634,
   "periodStars": 350
  },
  {
@@ -105,8 +105,8 @@
   "url": "https://github.com/tailwindlabs/tailwindcss",
   "description": "A utility-first CSS framework for rapid UI development.",
   "language": "TypeScript",
-  "stars": 98502,
-  "forks": 7110,
+  "stars": 98573,
+  "forks": 7118,
   "periodStars": 122
  },
  {
@@ -115,8 +115,8 @@
   "url": "https://github.com/mbillow/localthings",
   "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
   "language": "Python",
-  "stars": 1072,
-  "forks": 113,
+  "stars": 1100,
+  "forks": 114,
   "periodStars": 186
  },
  {
@@ -125,8 +125,8 @@
   "url": "https://github.com/zed-industries/zed",
   "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
   "language": "Rust",
-  "stars": 94304,
-  "forks": 11557,
+  "stars": 94356,
+  "forks": 11558,
   "periodStars": 1114
  },
  {
@@ -135,8 +135,8 @@
   "url": "https://github.com/ranxianglei/billion-context",
   "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
   "language": "TypeScript",
-  "stars": 4651,
-  "forks": 371,
+  "stars": 4728,
+  "forks": 379,
   "periodStars": 191
  },
  {
@@ -145,8 +145,8 @@
   "url": "https://github.com/dsx-ai-factory/nvke",
   "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
   "language": "Go",
-  "stars": 574,
-  "forks": 90,
+  "stars": 618,
+  "forks": 95,
   "periodStars": 123
  }
 ]
