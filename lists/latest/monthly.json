@@ -5,9 +5,9 @@
   "url": "https://github.com/morluto/rea",
   "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
   "language": "TypeScript",
-  "stars": 447941,
-  "forks": 110443,
-  "periodStars": 413718
+  "stars": 450271,
+  "forks": 110807,
+  "periodStars": 389832
  },
  {
   "rank": 2,
@@ -15,9 +15,9 @@
   "url": "https://github.com/Nutlope/hallmark",
   "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
   "language": "CSS",
-  "stars": 52011,
-  "forks": 2771,
-  "periodStars": 21862
+  "stars": 52681,
+  "forks": 2802,
+  "periodStars": 22624
  },
  {
   "rank": 3,
@@ -25,9 +25,9 @@
   "url": "https://github.com/cloudflare/security-audit-skill",
   "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
   "language": "JavaScript",
-  "stars": 68405,
-  "forks": 4496,
-  "periodStars": 40994
+  "stars": 69422,
+  "forks": 4588,
+  "periodStars": 41811
  },
  {
   "rank": 4,
@@ -35,49 +35,49 @@
   "url": "https://github.com/pingdotgg/t3code",
   "description": "",
   "language": "TypeScript",
-  "stars": 54614,
-  "forks": 10229,
-  "periodStars": 26993
+  "stars": 55869,
+  "forks": 10360,
+  "periodStars": 28609
  },
  {
   "rank": 5,
-  "name": "heygen-com/hyperframes",
-  "url": "https://github.com/heygen-com/hyperframes",
-  "description": "Write HTML. Render video. Built for agents.",
-  "language": "TypeScript",
-  "stars": 81889,
-  "forks": 7564,
-  "periodStars": 22344
- },
- {
-  "rank": 6,
   "name": "thedotmack/claude-mem",
   "url": "https://github.com/thedotmack/claude-mem",
   "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
   "language": "TypeScript",
-  "stars": 115535,
-  "forks": 10027,
-  "periodStars": 17008
+  "stars": 115872,
+  "forks": 10051,
+  "periodStars": 17223
+ },
+ {
+  "rank": 6,
+  "name": "heygen-com/hyperframes",
+  "url": "https://github.com/heygen-com/hyperframes",
+  "description": "Write HTML. Render video. Built for agents.",
+  "language": "TypeScript",
+  "stars": 82359,
+  "forks": 7611,
+  "periodStars": 22380
  },
  {
   "rank": 7,
-  "name": "debpalash/VoiceStudio",
-  "url": "https://github.com/debpalash/VoiceStudio",
-  "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-  "language": "Python",
-  "stars": 106538,
-  "forks": 11822,
-  "periodStars": 50585
- },
- {
-  "rank": 8,
   "name": "HKUDS/DeepTutor",
   "url": "https://github.com/HKUDS/DeepTutor",
   "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
   "language": "Python",
-  "stars": 57755,
-  "forks": 7041,
-  "periodStars": 16710
+  "stars": 58022,
+  "forks": 7065,
+  "periodStars": 17107
+ },
+ {
+  "rank": 8,
+  "name": "debpalash/VoiceStudio",
+  "url": "https://github.com/debpalash/VoiceStudio",
+  "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+  "language": "Python",
+  "stars": 107355,
+  "forks": 11901,
+  "periodStars": 50753
  },
  {
   "rank": 9,
@@ -85,19 +85,19 @@
   "url": "https://github.com/pbakaus/impeccable",
   "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
   "language": "Rust",
-  "stars": 107105,
-  "forks": 6363,
-  "periodStars": 28285
+  "stars": 107669,
+  "forks": 6403,
+  "periodStars": 28598
  },
  {
   "rank": 10,
-  "name": "storytold/artcraft",
-  "url": "https://github.com/storytold/artcraft",
-  "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-  "language": "Rust",
-  "stars": 40367,
-  "forks": 6281,
-  "periodStars": 30753
+  "name": "anthropics/claude-plugins-official",
+  "url": "https://github.com/anthropics/claude-plugins-official",
+  "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+  "language": "Python",
+  "stars": 46789,
+  "forks": 4865,
+  "periodStars": 9346
  },
  {
   "rank": 11,
@@ -105,28 +105,38 @@
   "url": "https://github.com/NationalSecurityAgency/ghidra",
   "description": "Ghidra is a software reverse engineering (SRE) framework",
   "language": "Java",
-  "stars": 99174,
-  "forks": 11263,
-  "periodStars": 17387
+  "stars": 99384,
+  "forks": 11284,
+  "periodStars": 17106
  },
  {
   "rank": 12,
-  "name": "boykopovar/AnyPS5",
-  "url": "https://github.com/boykopovar/AnyPS5",
-  "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-  "language": "C++",
-  "stars": 52751,
-  "forks": 5003,
-  "periodStars": 34260
+  "name": "ranxianglei/billion-context",
+  "url": "https://github.com/ranxianglei/billion-context",
+  "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+  "language": "TypeScript",
+  "stars": 6382,
+  "forks": 533,
+  "periodStars": 5300
  },
  {
   "rank": 13,
-  "name": "anthropics/claude-plugins-official",
-  "url": "https://github.com/anthropics/claude-plugins-official",
-  "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+  "name": "anthropics/knowledge-work-plugins",
+  "url": "https://github.com/anthropics/knowledge-work-plugins",
+  "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
   "language": "Python",
-  "stars": 46684,
-  "forks": 4860,
-  "periodStars": 9215
+  "stars": 35373,
+  "forks": 3917,
+  "periodStars": 6844
+ },
+ {
+  "rank": 14,
+  "name": "tashfeenahmed/freellmapi",
+  "url": "https://github.com/tashfeenahmed/freellmapi",
+  "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+  "language": "TypeScript",
+  "stars": 50322,
+  "forks": 6982,
+  "periodStars": 17591
  }
 ]

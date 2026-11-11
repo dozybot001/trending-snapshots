@@ -1,112 +1,122 @@
 [
  {
   "rank": 1,
-  "name": "anthropics/skills",
-  "url": "https://github.com/anthropics/skills",
-  "description": "Public repository for Agent Skills",
-  "language": "Python",
-  "stars": 191470,
-  "forks": 22476,
-  "periodStars": 1038
- },
- {
-  "rank": 2,
   "name": "meta/astryx",
   "url": "https://github.com/meta/astryx",
   "description": "An open source design system that's fully customizable and agent ready",
   "language": "TypeScript",
-  "stars": 20957,
-  "forks": 1586,
-  "periodStars": 3278
+  "stars": 23121,
+  "forks": 1833,
+  "periodStars": 3108
+ },
+ {
+  "rank": 2,
+  "name": "anthropics/skills",
+  "url": "https://github.com/anthropics/skills",
+  "description": "Public repository for Agent Skills",
+  "language": "Python",
+  "stars": 192420,
+  "forks": 22654,
+  "periodStars": 1679
  },
  {
   "rank": 3,
-  "name": "sherlock-project/sherlock",
-  "url": "https://github.com/sherlock-project/sherlock",
-  "description": "Hunt down social media accounts by username across social networks",
-  "language": "Python",
-  "stars": 107834,
-  "forks": 12467,
-  "periodStars": 4267
+  "name": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "description": "Production-grade engineering skills for AI coding agents.",
+  "language": "JavaScript",
+  "stars": 115239,
+  "forks": 12100,
+  "periodStars": 465
  },
  {
   "rank": 4,
-  "name": "google-deepmind/mujoco",
-  "url": "https://github.com/google-deepmind/mujoco",
-  "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-  "language": "C++",
-  "stars": 17076,
-  "forks": 2014,
-  "periodStars": 574
- },
- {
-  "rank": 5,
   "name": "anthropics/claude-quickstarts",
   "url": "https://github.com/anthropics/claude-quickstarts",
   "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
   "language": "Python",
-  "stars": 20174,
-  "forks": 3328,
-  "periodStars": 551
+  "stars": 20540,
+  "forks": 3471,
+  "periodStars": 531
+ },
+ {
+  "rank": 5,
+  "name": "google-deepmind/mujoco",
+  "url": "https://github.com/google-deepmind/mujoco",
+  "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+  "language": "C++",
+  "stars": 17415,
+  "forks": 2148,
+  "periodStars": 456
  },
  {
   "rank": 6,
-  "name": "garrytan/gbrain",
-  "url": "https://github.com/garrytan/gbrain",
-  "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-  "language": "TypeScript",
-  "stars": 32327,
-  "forks": 4781,
-  "periodStars": 216
+  "name": "we-promise/sure",
+  "url": "https://github.com/we-promise/sure",
+  "description": "The personal finance app for everyone (by everyone)",
+  "language": "Ruby",
+  "stars": 12067,
+  "forks": 897,
+  "periodStars": 159
  },
  {
   "rank": 7,
-  "name": "vercel-labs/agent-browser",
-  "url": "https://github.com/vercel-labs/agent-browser",
-  "description": "Browser automation CLI for AI agents",
-  "language": "Rust",
-  "stars": 48741,
-  "forks": 3321,
-  "periodStars": 916
- },
- {
-  "rank": 8,
-  "name": "ruvnet/RuView",
-  "url": "https://github.com/ruvnet/RuView",
-  "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-  "language": "Rust",
-  "stars": 103696,
-  "forks": 13431,
-  "periodStars": 172
- },
- {
-  "rank": 9,
-  "name": "ZhuLinsen/daily_stock_analysis",
-  "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-  "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-  "language": "Python",
-  "stars": 69284,
-  "forks": 56489,
-  "periodStars": 506
- },
- {
-  "rank": 10,
   "name": "homeassistant-ai/ha-mcp",
   "url": "https://github.com/homeassistant-ai/ha-mcp",
   "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
   "language": "Python",
-  "stars": 6202,
-  "forks": 302,
-  "periodStars": 31
+  "stars": 6726,
+  "forks": 432,
+  "periodStars": 790
+ },
+ {
+  "rank": 8,
+  "name": "vercel-labs/agent-browser",
+  "url": "https://github.com/vercel-labs/agent-browser",
+  "description": "Browser automation CLI for AI agents",
+  "language": "Rust",
+  "stars": 49296,
+  "forks": 3452,
+  "periodStars": 780
+ },
+ {
+  "rank": 9,
+  "name": "sherlock-project/sherlock",
+  "url": "https://github.com/sherlock-project/sherlock",
+  "description": "Hunt down social media accounts by username across social networks",
+  "language": "Python",
+  "stars": 109121,
+  "forks": 12674,
+  "periodStars": 2393
+ },
+ {
+  "rank": 10,
+  "name": "tokio-rs/topcoat",
+  "url": "https://github.com/tokio-rs/topcoat",
+  "description": "A batteries-included framework for building web apps",
+  "language": "Rust",
+  "stars": 6878,
+  "forks": 304,
+  "periodStars": 192
  },
  {
   "rank": 11,
-  "name": "milind-soni/OpenMausBot",
-  "url": "https://github.com/milind-soni/OpenMausBot",
-  "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+  "name": "ranxianglei/billion-context",
+  "url": "https://github.com/ranxianglei/billion-context",
+  "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
   "language": "TypeScript",
-  "stars": 20144,
-  "forks": 2754,
-  "periodStars": 1587
+  "stars": 6382,
+  "forks": 533,
+  "periodStars": 375
+ },
+ {
+  "rank": 12,
+  "name": "mattpocock/skills",
+  "url": "https://github.com/mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "language": "Shell",
+  "stars": 321024,
+  "forks": 26915,
+  "periodStars": 1225
  }
 ]
