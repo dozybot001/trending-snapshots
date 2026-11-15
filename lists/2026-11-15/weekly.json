@@ -1,0 +1,112 @@
+[
+ {
+  "rank": 1,
+  "name": "meta/astryx",
+  "url": "https://github.com/meta/astryx",
+  "description": "An open source design system that's fully customizable and agent ready",
+  "language": "TypeScript",
+  "stars": 28211,
+  "forks": 2194,
+  "periodStars": 13660
+ },
+ {
+  "rank": 2,
+  "name": "sherlock-project/sherlock",
+  "url": "https://github.com/sherlock-project/sherlock",
+  "description": "Hunt down social media accounts by username across social networks",
+  "language": "Python",
+  "stars": 111839,
+  "forks": 12941,
+  "periodStars": 12401
+ },
+ {
+  "rank": 3,
+  "name": "anthropics/skills",
+  "url": "https://github.com/anthropics/skills",
+  "description": "Public repository for Agent Skills",
+  "language": "Python",
+  "stars": 194668,
+  "forks": 22904,
+  "periodStars": 6220
+ },
+ {
+  "rank": 4,
+  "name": "vercel-labs/agent-browser",
+  "url": "https://github.com/vercel-labs/agent-browser",
+  "description": "Browser automation CLI for AI agents",
+  "language": "Rust",
+  "stars": 51249,
+  "forks": 3578,
+  "periodStars": 4601
+ },
+ {
+  "rank": 5,
+  "name": "google/elephant-goldfish-model",
+  "url": "https://github.com/google/elephant-goldfish-model",
+  "description": "Open-source plugin for designing and reviewing software with agents",
+  "language": "Python",
+  "stars": 19237,
+  "forks": 1426,
+  "periodStars": 5539
+ },
+ {
+  "rank": 6,
+  "name": "milind-soni/OpenMausBot",
+  "url": "https://github.com/milind-soni/OpenMausBot",
+  "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+  "language": "TypeScript",
+  "stars": 22825,
+  "forks": 3173,
+  "periodStars": 6413
+ },
+ {
+  "rank": 7,
+  "name": "ZhuLinsen/daily_stock_analysis",
+  "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+  "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+  "language": "Python",
+  "stars": 72278,
+  "forks": 57491,
+  "periodStars": 4526
+ },
+ {
+  "rank": 8,
+  "name": "google-deepmind/mujoco",
+  "url": "https://github.com/google-deepmind/mujoco",
+  "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+  "language": "C++",
+  "stars": 17989,
+  "forks": 2204,
+  "periodStars": 1859
+ },
+ {
+  "rank": 9,
+  "name": "backnotprop/plannotator",
+  "url": "https://github.com/backnotprop/plannotator",
+  "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+  "language": "TypeScript",
+  "stars": 11207,
+  "forks": 930,
+  "periodStars": 818
+ },
+ {
+  "rank": 10,
+  "name": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "description": "Production-grade engineering skills for AI coding agents.",
+  "language": "JavaScript",
+  "stars": 117606,
+  "forks": 12300,
+  "periodStars": 3670
+ },
+ {
+  "rank": 11,
+  "name": "anthropics/claude-quickstarts",
+  "url": "https://github.com/anthropics/claude-quickstarts",
+  "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+  "language": "Python",
+  "stars": 20993,
+  "forks": 3498,
+  "periodStars": 1794
+ }
+]

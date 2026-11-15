@@ -1,33 +1,33 @@
 [
  {
   "rank": 1,
+  "name": "meta/astryx",
+  "url": "https://github.com/meta/astryx",
+  "description": "An open source design system that's fully customizable and agent ready",
+  "language": "TypeScript",
+  "stars": 28211,
+  "forks": 2194,
+  "periodStars": 13660
+ },
+ {
+  "rank": 2,
   "name": "sherlock-project/sherlock",
   "url": "https://github.com/sherlock-project/sherlock",
   "description": "Hunt down social media accounts by username across social networks",
   "language": "Python",
-  "stars": 111327,
-  "forks": 12886,
-  "periodStars": 13364
+  "stars": 111839,
+  "forks": 12941,
+  "periodStars": 12401
  },
  {
-  "rank": 2,
+  "rank": 3,
   "name": "anthropics/skills",
   "url": "https://github.com/anthropics/skills",
   "description": "Public repository for Agent Skills",
   "language": "Python",
-  "stars": 194243,
-  "forks": 22851,
-  "periodStars": 6169
- },
- {
-  "rank": 3,
-  "name": "milind-soni/OpenMausBot",
-  "url": "https://github.com/milind-soni/OpenMausBot",
-  "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-  "language": "TypeScript",
-  "stars": 22324,
-  "forks": 3107,
-  "periodStars": 7763
+  "stars": 194668,
+  "forks": 22904,
+  "periodStars": 6220
  },
  {
   "rank": 4,
@@ -35,9 +35,9 @@
   "url": "https://github.com/vercel-labs/agent-browser",
   "description": "Browser automation CLI for AI agents",
   "language": "Rust",
-  "stars": 50825,
-  "forks": 3538,
-  "periodStars": 4360
+  "stars": 51249,
+  "forks": 3578,
+  "periodStars": 4601
  },
  {
   "rank": 5,
@@ -45,29 +45,29 @@
   "url": "https://github.com/google/elephant-goldfish-model",
   "description": "Open-source plugin for designing and reviewing software with agents",
   "language": "Python",
-  "stars": 18736,
-  "forks": 1399,
-  "periodStars": 5560
+  "stars": 19237,
+  "forks": 1426,
+  "periodStars": 5539
  },
  {
   "rank": 6,
+  "name": "milind-soni/OpenMausBot",
+  "url": "https://github.com/milind-soni/OpenMausBot",
+  "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+  "language": "TypeScript",
+  "stars": 22825,
+  "forks": 3173,
+  "periodStars": 6413
+ },
+ {
+  "rank": 7,
   "name": "ZhuLinsen/daily_stock_analysis",
   "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
   "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
   "language": "Python",
-  "stars": 71877,
-  "forks": 57366,
-  "periodStars": 3778
- },
- {
-  "rank": 7,
-  "name": "NVIDIA/auto-ontology",
-  "url": "https://github.com/NVIDIA/auto-ontology",
-  "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-  "language": "Python",
-  "stars": 12635,
-  "forks": 1039,
-  "periodStars": 4108
+  "stars": 72278,
+  "forks": 57491,
+  "periodStars": 4526
  },
  {
   "rank": 8,
@@ -75,19 +75,19 @@
   "url": "https://github.com/google-deepmind/mujoco",
   "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
   "language": "C++",
-  "stars": 17906,
-  "forks": 2188,
-  "periodStars": 1764
+  "stars": 17989,
+  "forks": 2204,
+  "periodStars": 1859
  },
  {
   "rank": 9,
-  "name": "mattpocock/skills",
-  "url": "https://github.com/mattpocock/skills",
-  "description": "Skills for Real Engineers. Straight from my .agents directory.",
-  "language": "Shell",
-  "stars": 323976,
-  "forks": 27193,
-  "periodStars": 7599
+  "name": "backnotprop/plannotator",
+  "url": "https://github.com/backnotprop/plannotator",
+  "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+  "language": "TypeScript",
+  "stars": 11207,
+  "forks": 930,
+  "periodStars": 818
  },
  {
   "rank": 10,
@@ -95,58 +95,18 @@
   "url": "https://github.com/addyosmani/agent-skills",
   "description": "Production-grade engineering skills for AI coding agents.",
   "language": "JavaScript",
-  "stars": 117248,
-  "forks": 12264,
-  "periodStars": 3502
+  "stars": 117606,
+  "forks": 12300,
+  "periodStars": 3670
  },
  {
   "rank": 11,
-  "name": "cloudflare/security-audit-skill",
-  "url": "https://github.com/cloudflare/security-audit-skill",
-  "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-  "language": "JavaScript",
-  "stars": 72072,
-  "forks": 4803,
-  "periodStars": 8829
- },
- {
-  "rank": 12,
-  "name": "zed-industries/zed",
-  "url": "https://github.com/zed-industries/zed",
-  "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-  "language": "Rust",
-  "stars": 94986,
-  "forks": 11697,
-  "periodStars": 2117
- },
- {
-  "rank": 13,
   "name": "anthropics/claude-quickstarts",
   "url": "https://github.com/anthropics/claude-quickstarts",
   "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
   "language": "Python",
-  "stars": 20890,
-  "forks": 3490,
-  "periodStars": 1731
- },
- {
-  "rank": 14,
-  "name": "vercel-labs/agent-desktop",
-  "url": "https://github.com/vercel-labs/agent-desktop",
-  "description": "Computer use CLI for AI agents",
-  "language": "Rust",
-  "stars": 23435,
-  "forks": 1734,
-  "periodStars": 5408
- },
- {
-  "rank": 15,
-  "name": "lobehub/lobehub",
-  "url": "https://github.com/lobehub/lobehub",
-  "description": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
-  "language": "TypeScript",
-  "stars": 85461,
-  "forks": 16303,
-  "periodStars": 1126
+  "stars": 20993,
+  "forks": 3498,
+  "periodStars": 1794
  }
 ]
