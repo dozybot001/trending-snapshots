@@ -5,9 +5,9 @@
   "url": "https://github.com/Nutlope/hallmark",
   "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
   "language": "CSS",
-  "stars": 55146,
-  "forks": 2950,
-  "periodStars": 25013
+  "stars": 55557,
+  "forks": 2983,
+  "periodStars": 25448
  },
  {
   "rank": 2,
@@ -15,59 +15,59 @@
   "url": "https://github.com/cloudflare/security-audit-skill",
   "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
   "language": "JavaScript",
-  "stars": 72779,
-  "forks": 4866,
-  "periodStars": 43171
+  "stars": 73293,
+  "forks": 4910,
+  "periodStars": 43540
  },
  {
   "rank": 3,
-  "name": "morluto/rea",
-  "url": "https://github.com/morluto/rea",
-  "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-  "language": "TypeScript",
-  "stars": 460432,
-  "forks": 112835,
-  "periodStars": 236618
- },
- {
-  "rank": 4,
   "name": "pingdotgg/t3code",
   "url": "https://github.com/pingdotgg/t3code",
   "description": "The best way to control Claude Code, Codex and more from any computer or phone",
   "language": "TypeScript",
-  "stars": 60835,
-  "forks": 10942,
-  "periodStars": 32857
+  "stars": 61663,
+  "forks": 11045,
+  "periodStars": 33583
  },
  {
-  "rank": 5,
+  "rank": 4,
   "name": "thedotmack/claude-mem",
   "url": "https://github.com/thedotmack/claude-mem",
   "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
   "language": "TypeScript",
-  "stars": 117177,
-  "forks": 10173,
-  "periodStars": 17051
+  "stars": 117407,
+  "forks": 10197,
+  "periodStars": 17038
  },
  {
-  "rank": 6,
+  "rank": 5,
   "name": "pbakaus/impeccable",
   "url": "https://github.com/pbakaus/impeccable",
   "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
   "language": "Rust",
-  "stars": 110353,
-  "forks": 6589,
-  "periodStars": 29487
+  "stars": 110813,
+  "forks": 6624,
+  "periodStars": 29631
  },
  {
-  "rank": 7,
+  "rank": 6,
   "name": "anthropics/skills",
   "url": "https://github.com/anthropics/skills",
   "description": "Public repository for Agent Skills",
   "language": "Python",
-  "stars": 194743,
-  "forks": 22908,
-  "periodStars": 13927
+  "stars": 195423,
+  "forks": 22968,
+  "periodStars": 14332
+ },
+ {
+  "rank": 7,
+  "name": "HKUDS/DeepTutor",
+  "url": "https://github.com/HKUDS/DeepTutor",
+  "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+  "language": "Python",
+  "stars": 59523,
+  "forks": 7205,
+  "periodStars": 18278
  },
  {
   "rank": 8,
@@ -75,39 +75,39 @@
   "url": "https://github.com/heygen-com/hyperframes",
   "description": "Write HTML. Render video. Built for agents.",
   "language": "TypeScript",
-  "stars": 84447,
-  "forks": 7811,
-  "periodStars": 21361
+  "stars": 84784,
+  "forks": 7850,
+  "periodStars": 20878
  },
  {
   "rank": 9,
-  "name": "HKUDS/DeepTutor",
-  "url": "https://github.com/HKUDS/DeepTutor",
-  "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
+  "name": "sherlock-project/sherlock",
+  "url": "https://github.com/sherlock-project/sherlock",
+  "description": "Hunt down social media accounts by username across social networks",
   "language": "Python",
-  "stars": 59304,
-  "forks": 7184,
-  "periodStars": 18077
+  "stars": 112561,
+  "forks": 12994,
+  "periodStars": 18371
  },
  {
   "rank": 10,
-  "name": "Leonxlnx/taste-skill",
-  "url": "https://github.com/Leonxlnx/taste-skill",
-  "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-  "language": "JavaScript",
-  "stars": 115774,
-  "forks": 7773,
-  "periodStars": 20043
- },
- {
-  "rank": 11,
   "name": "AgriciDaniel/claude-seo",
   "url": "https://github.com/AgriciDaniel/claude-seo",
   "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
   "language": "Python",
-  "stars": 29458,
-  "forks": 3726,
-  "periodStars": 10402
+  "stars": 29749,
+  "forks": 3745,
+  "periodStars": 10672
+ },
+ {
+  "rank": 11,
+  "name": "Leonxlnx/taste-skill",
+  "url": "https://github.com/Leonxlnx/taste-skill",
+  "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+  "language": "JavaScript",
+  "stars": 116299,
+  "forks": 7796,
+  "periodStars": 19546
  },
  {
   "rank": 12,
@@ -115,38 +115,28 @@
   "url": "https://github.com/anthropics/knowledge-work-plugins",
   "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
   "language": "Python",
-  "stars": 35951,
-  "forks": 3974,
-  "periodStars": 6228
+  "stars": 36203,
+  "forks": 3999,
+  "periodStars": 6417
  },
  {
   "rank": 13,
-  "name": "debpalash/VoiceStudio",
-  "url": "https://github.com/debpalash/VoiceStudio",
-  "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-  "language": "Python",
-  "stars": 110841,
-  "forks": 12284,
-  "periodStars": 46324
- },
- {
-  "rank": 14,
   "name": "Vincentwei1021/video-shotcraft",
   "url": "https://github.com/Vincentwei1021/video-shotcraft",
   "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
   "language": "TypeScript",
-  "stars": 19737,
-  "forks": 1848,
-  "periodStars": 7617
+  "stars": 20124,
+  "forks": 1879,
+  "periodStars": 7937
  },
  {
-  "rank": 15,
+  "rank": 14,
   "name": "vercel-labs/agent-browser",
   "url": "https://github.com/vercel-labs/agent-browser",
   "description": "Browser automation CLI for AI agents",
   "language": "Rust",
-  "stars": 51317,
-  "forks": 3584,
-  "periodStars": 7152
+  "stars": 51677,
+  "forks": 3615,
+  "periodStars": 7545
  }
 ]
