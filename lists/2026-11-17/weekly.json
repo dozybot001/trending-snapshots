@@ -1,0 +1,142 @@
+[
+ {
+  "rank": 1,
+  "name": "GoogleChrome/modern-web-guidance-src",
+  "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+  "description": "Keep your coding agent up to date with the latest web best practices",
+  "language": "TypeScript",
+  "stars": 8097,
+  "forks": 703,
+  "periodStars": 6542
+ },
+ {
+  "rank": 2,
+  "name": "meta/astryx",
+  "url": "https://github.com/meta/astryx",
+  "description": "An open source design system that's fully customizable and agent ready",
+  "language": "TypeScript",
+  "stars": 29729,
+  "forks": 2313,
+  "periodStars": 10939
+ },
+ {
+  "rank": 3,
+  "name": "backnotprop/plannotator",
+  "url": "https://github.com/backnotprop/plannotator",
+  "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+  "language": "TypeScript",
+  "stars": 12711,
+  "forks": 1250,
+  "periodStars": 2325
+ },
+ {
+  "rank": 4,
+  "name": "anthropics/skills",
+  "url": "https://github.com/anthropics/skills",
+  "description": "Public repository for Agent Skills",
+  "language": "Python",
+  "stars": 196180,
+  "forks": 23026,
+  "periodStars": 5666
+ },
+ {
+  "rank": 5,
+  "name": "vercel-labs/agent-browser",
+  "url": "https://github.com/vercel-labs/agent-browser",
+  "description": "Browser automation CLI for AI agents",
+  "language": "Rust",
+  "stars": 52098,
+  "forks": 3639,
+  "periodStars": 3760
+ },
+ {
+  "rank": 6,
+  "name": "we-promise/sure",
+  "url": "https://github.com/we-promise/sure",
+  "description": "The personal finance app for everyone (by everyone)",
+  "language": "Ruby",
+  "stars": 16060,
+  "forks": 1396,
+  "periodStars": 4679
+ },
+ {
+  "rank": 7,
+  "name": "ZhuLinsen/daily_stock_analysis",
+  "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+  "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+  "language": "Python",
+  "stars": 72877,
+  "forks": 57692,
+  "periodStars": 4355
+ },
+ {
+  "rank": 8,
+  "name": "sherlock-project/sherlock",
+  "url": "https://github.com/sherlock-project/sherlock",
+  "description": "Hunt down social media accounts by username across social networks",
+  "language": "Python",
+  "stars": 113287,
+  "forks": 13044,
+  "periodStars": 7067
+ },
+ {
+  "rank": 9,
+  "name": "google/elephant-goldfish-model",
+  "url": "https://github.com/google/elephant-goldfish-model",
+  "description": "Open-source plugin for designing and reviewing software with agents",
+  "language": "Python",
+  "stars": 20462,
+  "forks": 1513,
+  "periodStars": 4249
+ },
+ {
+  "rank": 10,
+  "name": "google-deepmind/mujoco",
+  "url": "https://github.com/google-deepmind/mujoco",
+  "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+  "language": "C++",
+  "stars": 18204,
+  "forks": 2206,
+  "periodStars": 1448
+ },
+ {
+  "rank": 11,
+  "name": "alibaba/open-code-review",
+  "url": "https://github.com/alibaba/open-code-review",
+  "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+  "language": "Go",
+  "stars": 53102,
+  "forks": 4326,
+  "periodStars": 3056
+ },
+ {
+  "rank": 12,
+  "name": "addyosmani/agent-skills",
+  "url": "https://github.com/addyosmani/agent-skills",
+  "description": "Production-grade engineering skills for AI coding agents.",
+  "language": "JavaScript",
+  "stars": 118395,
+  "forks": 12357,
+  "periodStars": 3960
+ },
+ {
+  "rank": 13,
+  "name": "openai/codex-security",
+  "url": "https://github.com/openai/codex-security",
+  "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+  "language": "TypeScript",
+  "stars": 13805,
+  "forks": 1078,
+  "periodStars": 2352
+ },
+ {
+  "rank": 14,
+  "name": "QwenLM/qwen-code",
+  "url": "https://github.com/QwenLM/qwen-code",
+  "description": "An open-source AI coding agent that lives in your terminal.",
+  "language": "TypeScript",
+  "stars": 30673,
+  "forks": 3548,
+  "periodStars": 1497
+ }
+]
