@@ -1,7 +1,8 @@
-// GitHub trending: top N of the daily, weekly and monthly lists.
+// GitHub trending: every repository on the daily, weekly and monthly lists. GitHub shows a
+// varying number (25 in 2023, mostly 10 to 16 in 2026), so there is no rank cutoff.
 // Parses the public trending page; GitHub has no API for this list.
 export const LISTS = ['daily', 'weekly', 'monthly'];
-export const TOP = 15;
+export const TOP = Infinity;
 
 const text = html => html.replace(/<[^>]+>/g, ' ').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/\s+/g, ' ').trim();
 const number = value => Number(String(value || '0').replace(/,/g, '')) || 0;
