@@ -5,9 +5,9 @@
   "url": "https://github.com/Nutlope/hallmark",
   "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
   "language": "CSS",
-  "stars": 56391,
-  "forks": 3033,
-  "periodStars": 25988
+  "stars": 57007,
+  "forks": 3081,
+  "periodStars": 26594
  },
  {
   "rank": 2,
@@ -15,9 +15,9 @@
   "url": "https://github.com/cloudflare/security-audit-skill",
   "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
   "language": "JavaScript",
-  "stars": 74209,
-  "forks": 4969,
-  "periodStars": 43924
+  "stars": 74903,
+  "forks": 5020,
+  "periodStars": 44314
  },
  {
   "rank": 3,
@@ -25,29 +25,29 @@
   "url": "https://github.com/pingdotgg/t3code",
   "description": "The best way to control Claude Code, Codex and more from any computer or phone",
   "language": "TypeScript",
-  "stars": 63261,
-  "forks": 11199,
-  "periodStars": 34691
+  "stars": 64327,
+  "forks": 11326,
+  "periodStars": 35748
  },
  {
   "rank": 4,
-  "name": "thedotmack/claude-mem",
-  "url": "https://github.com/thedotmack/claude-mem",
-  "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-  "language": "TypeScript",
-  "stars": 117802,
-  "forks": 10236,
-  "periodStars": 17074
- },
- {
-  "rank": 5,
   "name": "anthropics/skills",
   "url": "https://github.com/anthropics/skills",
   "description": "Public repository for Agent Skills",
   "language": "Python",
-  "stars": 196290,
-  "forks": 23037,
-  "periodStars": 14817
+  "stars": 196819,
+  "forks": 23068,
+  "periodStars": 15351
+ },
+ {
+  "rank": 5,
+  "name": "thedotmack/claude-mem",
+  "url": "https://github.com/thedotmack/claude-mem",
+  "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+  "language": "TypeScript",
+  "stars": 118044,
+  "forks": 10255,
+  "periodStars": 17236
  },
  {
   "rank": 6,
@@ -55,9 +55,9 @@
   "url": "https://github.com/pbakaus/impeccable",
   "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
   "language": "Rust",
-  "stars": 111638,
-  "forks": 6667,
-  "periodStars": 29881
+  "stars": 112331,
+  "forks": 6697,
+  "periodStars": 30177
  },
  {
   "rank": 7,
@@ -65,19 +65,19 @@
   "url": "https://github.com/HKUDS/DeepTutor",
   "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
   "language": "Python",
-  "stars": 59894,
-  "forks": 7253,
-  "periodStars": 18533
+  "stars": 60145,
+  "forks": 7279,
+  "periodStars": 18753
  },
  {
   "rank": 8,
-  "name": "heygen-com/hyperframes",
-  "url": "https://github.com/heygen-com/hyperframes",
-  "description": "Write HTML. Render video. Built for agents.",
+  "name": "backnotprop/plannotator",
+  "url": "https://github.com/backnotprop/plannotator",
+  "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
   "language": "TypeScript",
-  "stars": 85469,
-  "forks": 7919,
-  "periodStars": 20459
+  "stars": 13135,
+  "forks": 1316,
+  "periodStars": 3475
  },
  {
   "rank": 9,
@@ -85,68 +85,58 @@
   "url": "https://github.com/sherlock-project/sherlock",
   "description": "Hunt down social media accounts by username across social networks",
   "language": "Python",
-  "stars": 113415,
-  "forks": 13062,
-  "periodStars": 19079
+  "stars": 113862,
+  "forks": 13101,
+  "periodStars": 19596
  },
  {
   "rank": 10,
+  "name": "heygen-com/hyperframes",
+  "url": "https://github.com/heygen-com/hyperframes",
+  "description": "Write HTML. Render video. Built for agents.",
+  "language": "TypeScript",
+  "stars": 86089,
+  "forks": 7974,
+  "periodStars": 20425
+ },
+ {
+  "rank": 11,
   "name": "Leonxlnx/taste-skill",
   "url": "https://github.com/Leonxlnx/taste-skill",
   "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
   "language": "JavaScript",
-  "stars": 117172,
-  "forks": 7839,
-  "periodStars": 19384
+  "stars": 117875,
+  "forks": 7887,
+  "periodStars": 19688
  },
  {
-  "rank": 11,
+  "rank": 12,
   "name": "AgriciDaniel/claude-seo",
   "url": "https://github.com/AgriciDaniel/claude-seo",
   "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
   "language": "Python",
-  "stars": 30164,
-  "forks": 3789,
-  "periodStars": 10989
- },
- {
-  "rank": 12,
-  "name": "anthropics/knowledge-work-plugins",
-  "url": "https://github.com/anthropics/knowledge-work-plugins",
-  "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-  "language": "Python",
-  "stars": 36344,
-  "forks": 4017,
-  "periodStars": 6537
+  "stars": 30440,
+  "forks": 3801,
+  "periodStars": 11246
  },
  {
   "rank": 13,
-  "name": "backnotprop/plannotator",
-  "url": "https://github.com/backnotprop/plannotator",
-  "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-  "language": "TypeScript",
-  "stars": 12819,
-  "forks": 1272,
-  "periodStars": 2848
- },
- {
-  "rank": 14,
-  "name": "Vincentwei1021/video-shotcraft",
-  "url": "https://github.com/Vincentwei1021/video-shotcraft",
-  "description": "AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.",
-  "language": "TypeScript",
-  "stars": 20798,
-  "forks": 1919,
-  "periodStars": 8363
- },
- {
-  "rank": 15,
   "name": "vercel-labs/agent-browser",
   "url": "https://github.com/vercel-labs/agent-browser",
   "description": "Browser automation CLI for AI agents",
   "language": "Rust",
-  "stars": 52181,
-  "forks": 3649,
-  "periodStars": 7943
+  "stars": 52423,
+  "forks": 3663,
+  "periodStars": 8282
+ },
+ {
+  "rank": 14,
+  "name": "anthropics/knowledge-work-plugins",
+  "url": "https://github.com/anthropics/knowledge-work-plugins",
+  "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+  "language": "Python",
+  "stars": 36455,
+  "forks": 4024,
+  "periodStars": 6565
  }
 ]
