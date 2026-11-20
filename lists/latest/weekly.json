@@ -1,63 +1,63 @@
 [
  {
   "rank": 1,
-  "name": "GoogleChrome/modern-web-guidance-src",
-  "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-  "description": "Keep your coding agent up to date with the latest web best practices",
-  "language": "TypeScript",
-  "stars": 8940,
-  "forks": 747,
-  "periodStars": 7257
- },
- {
-  "rank": 2,
   "name": "backnotprop/plannotator",
   "url": "https://github.com/backnotprop/plannotator",
   "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
   "language": "TypeScript",
-  "stars": 13543,
-  "forks": 1365,
-  "periodStars": 3290
+  "stars": 13706,
+  "forks": 1387,
+  "periodStars": 3468
  },
  {
-  "rank": 3,
-  "name": "meta/astryx",
-  "url": "https://github.com/meta/astryx",
-  "description": "An open source design system that's fully customizable and agent ready",
-  "language": "TypeScript",
-  "stars": 30708,
-  "forks": 2406,
-  "periodStars": 6250
- },
- {
-  "rank": 4,
-  "name": "we-promise/sure",
-  "url": "https://github.com/we-promise/sure",
-  "description": "The personal finance app for everyone (by everyone)",
-  "language": "Ruby",
-  "stars": 16574,
-  "forks": 1453,
-  "periodStars": 3866
- },
- {
-  "rank": 5,
-  "name": "alibaba/open-code-review",
-  "url": "https://github.com/alibaba/open-code-review",
-  "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-  "language": "Go",
-  "stars": 54247,
-  "forks": 4487,
-  "periodStars": 4383
- },
- {
-  "rank": 6,
+  "rank": 2,
   "name": "google-labs-code/stitch-skills",
   "url": "https://github.com/google-labs-code/stitch-skills",
   "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
   "language": "TypeScript",
-  "stars": 10524,
-  "forks": 1372,
-  "periodStars": 1567
+  "stars": 10775,
+  "forks": 1389,
+  "periodStars": 1829
+ },
+ {
+  "rank": 3,
+  "name": "GoogleChrome/modern-web-guidance-src",
+  "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+  "description": "Keep your coding agent up to date with the latest web best practices",
+  "language": "TypeScript",
+  "stars": 9208,
+  "forks": 755,
+  "periodStars": 6858
+ },
+ {
+  "rank": 4,
+  "name": "alibaba/open-code-review",
+  "url": "https://github.com/alibaba/open-code-review",
+  "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+  "language": "Go",
+  "stars": 54436,
+  "forks": 4504,
+  "periodStars": 4492
+ },
+ {
+  "rank": 5,
+  "name": "mvanhorn/last30days-skill",
+  "url": "https://github.com/mvanhorn/last30days-skill",
+  "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "language": "Python",
+  "stars": 70908,
+  "forks": 6317,
+  "periodStars": 3179
+ },
+ {
+  "rank": 6,
+  "name": "ChromeDevTools/chrome-devtools-mcp",
+  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "description": "Chrome DevTools for coding agents",
+  "language": "TypeScript",
+  "stars": 58398,
+  "forks": 4877,
+  "periodStars": 3229
  },
  {
   "rank": 7,
@@ -65,88 +65,68 @@
   "url": "https://github.com/tradermonty/claude-trading-skills",
   "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
   "language": "Python",
-  "stars": 7126,
-  "forks": 1445,
-  "periodStars": 3242
+  "stars": 7281,
+  "forks": 1464,
+  "periodStars": 3385
  },
  {
   "rank": 8,
-  "name": "ChromeDevTools/chrome-devtools-mcp",
-  "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-  "description": "Chrome DevTools for coding agents",
-  "language": "TypeScript",
-  "stars": 58261,
-  "forks": 4879,
-  "periodStars": 3143
- },
- {
-  "rank": 9,
-  "name": "anthropics/skills",
-  "url": "https://github.com/anthropics/skills",
-  "description": "Public repository for Agent Skills",
-  "language": "Python",
-  "stars": 197388,
-  "forks": 23113,
-  "periodStars": 4381
- },
- {
-  "rank": 10,
-  "name": "ZhuLinsen/daily_stock_analysis",
-  "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-  "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-  "language": "Python",
-  "stars": 73418,
-  "forks": 57923,
-  "periodStars": 3566
- },
- {
-  "rank": 11,
-  "name": "mvanhorn/last30days-skill",
-  "url": "https://github.com/mvanhorn/last30days-skill",
-  "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-  "language": "Python",
-  "stars": 70331,
-  "forks": 6265,
-  "periodStars": 2423
- },
- {
-  "rank": 12,
   "name": "ag-ui-protocol/ag-ui",
   "url": "https://github.com/ag-ui-protocol/ag-ui",
   "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
   "language": "TypeScript",
-  "stars": 20522,
-  "forks": 2109,
-  "periodStars": 3221
+  "stars": 20669,
+  "forks": 2123,
+  "periodStars": 3455
  },
  {
-  "rank": 13,
-  "name": "vercel-labs/agent-browser",
-  "url": "https://github.com/vercel-labs/agent-browser",
-  "description": "Browser automation CLI for AI agents",
-  "language": "Rust",
-  "stars": 52729,
-  "forks": 3692,
-  "periodStars": 2987
- },
- {
-  "rank": 14,
-  "name": "openai/codex-security",
-  "url": "https://github.com/openai/codex-security",
-  "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+  "rank": 9,
+  "name": "meta/astryx",
+  "url": "https://github.com/meta/astryx",
+  "description": "An open source design system that's fully customizable and agent ready",
   "language": "TypeScript",
-  "stars": 14148,
-  "forks": 1104,
-  "periodStars": 2630
+  "stars": 31046,
+  "forks": 2435,
+  "periodStars": 4977
  },
  {
-  "rank": 15,
+  "rank": 10,
+  "name": "pookjw/HermesEnabler",
+  "url": "https://github.com/pookjw/HermesEnabler",
+  "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+  "language": "Objective-C",
+  "stars": 2260,
+  "forks": 189,
+  "periodStars": 904
+ },
+ {
+  "rank": 11,
+  "name": "we-promise/sure",
+  "url": "https://github.com/we-promise/sure",
+  "description": "The personal finance app for everyone (by everyone)",
+  "language": "Ruby",
+  "stars": 16746,
+  "forks": 1477,
+  "periodStars": 3226
+ },
+ {
+  "rank": 12,
   "name": "dream-num/univer",
   "url": "https://github.com/dream-num/univer",
   "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
   "language": "TypeScript",
-  "stars": 30135,
-  "forks": 2719,
-  "periodStars": 6840
+  "stars": 30337,
+  "forks": 2760,
+  "periodStars": 7248
+ },
+ {
+  "rank": 13,
+  "name": "kajisho5/ffmpeg-skill",
+  "url": "https://github.com/kajisho5/ffmpeg-skill",
+  "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+  "language": "Python",
+  "stars": 8433,
+  "forks": 784,
+  "periodStars": 2998
  }
 ]
