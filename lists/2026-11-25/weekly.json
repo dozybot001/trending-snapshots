@@ -5,8 +5,8 @@
   "url": "https://github.com/backnotprop/plannotator",
   "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
   "language": "TypeScript",
-  "stars": 14937,
-  "forks": 1438,
+  "stars": 14975,
+  "forks": 1439,
   "periodStars": 1956
  },
  {
@@ -15,8 +15,8 @@
   "url": "https://github.com/google-labs-code/stitch-skills",
   "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
   "language": "TypeScript",
-  "stars": 12740,
-  "forks": 1527,
+  "stars": 12794,
+  "forks": 1531,
   "periodStars": 2626
  },
  {
@@ -25,8 +25,8 @@
   "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
   "description": "Keep your coding agent up to date with the latest web best practices",
   "language": "TypeScript",
-  "stars": 10874,
-  "forks": 825,
+  "stars": 10918,
+  "forks": 826,
   "periodStars": 2494
  },
  {
@@ -35,8 +35,8 @@
   "url": "https://github.com/alibaba/open-code-review",
   "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
   "language": "Go",
-  "stars": 56118,
-  "forks": 4631,
+  "stars": 56182,
+  "forks": 4636,
   "periodStars": 2638
  },
  {
@@ -45,8 +45,8 @@
   "url": "https://github.com/mvanhorn/last30days-skill",
   "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
   "language": "Python",
-  "stars": 74444,
-  "forks": 6561,
+  "stars": 74618,
+  "forks": 6577,
   "periodStars": 5369
  },
  {
@@ -55,8 +55,8 @@
   "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
   "description": "Chrome DevTools for coding agents",
   "language": "TypeScript",
-  "stars": 59247,
-  "forks": 4881,
+  "stars": 59273,
+  "forks": 4887,
   "periodStars": 1258
  },
  {
@@ -65,7 +65,7 @@
   "url": "https://github.com/tradermonty/claude-trading-skills",
   "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
   "language": "Python",
-  "stars": 8334,
+  "stars": 8372,
   "forks": 1540,
   "periodStars": 1504
  },
@@ -75,8 +75,8 @@
   "url": "https://github.com/ag-ui-protocol/ag-ui",
   "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
   "language": "TypeScript",
-  "stars": 21613,
-  "forks": 2175,
+  "stars": 21646,
+  "forks": 2178,
   "periodStars": 1753
  },
  {
@@ -85,7 +85,7 @@
   "url": "https://github.com/meta/astryx",
   "description": "An open source design system that's fully customizable and agent ready",
   "language": "TypeScript",
-  "stars": 32920,
+  "stars": 32965,
   "forks": 2582,
   "periodStars": 2890
  },
@@ -95,7 +95,7 @@
   "url": "https://github.com/pookjw/HermesEnabler",
   "description": "Enable Hermès Watch Faces on any Apple Watch devices",
   "language": "Objective-C",
-  "stars": 2497,
+  "stars": 2502,
   "forks": 206,
   "periodStars": 328
  },
@@ -105,8 +105,8 @@
   "url": "https://github.com/we-promise/sure",
   "description": "The personal finance app for everyone (by everyone)",
   "language": "Ruby",
-  "stars": 17807,
-  "forks": 1548,
+  "stars": 17836,
+  "forks": 1550,
   "periodStars": 1567
  },
  {
@@ -115,7 +115,7 @@
   "url": "https://github.com/dream-num/univer",
   "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
   "language": "TypeScript",
-  "stars": 31734,
+  "stars": 31780,
   "forks": 2865,
   "periodStars": 3278
  },
@@ -125,8 +125,8 @@
   "url": "https://github.com/kajisho5/ffmpeg-skill",
   "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
   "language": "Python",
-  "stars": 10782,
-  "forks": 923,
+  "stars": 10860,
+  "forks": 928,
   "periodStars": 2993
  }
 ]
