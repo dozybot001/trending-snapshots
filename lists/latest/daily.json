@@ -5,9 +5,9 @@
   "url": "https://github.com/elementalsouls/Claude-BugHunter",
   "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
   "language": "Python",
-  "stars": 25176,
-  "forks": 2559,
-  "periodStars": 1597
+  "stars": 26303,
+  "forks": 2695,
+  "periodStars": 1608
  },
  {
   "rank": 2,
@@ -15,9 +15,9 @@
   "url": "https://github.com/obra/superpowers",
   "description": "An agentic skills framework & software development methodology that works.",
   "language": "Shell",
-  "stars": 327816,
-  "forks": 29090,
-  "periodStars": 854
+  "stars": 328437,
+  "forks": 29193,
+  "periodStars": 922
  },
  {
   "rank": 3,
@@ -25,9 +25,9 @@
   "url": "https://github.com/HKUDS/CLI-Anything",
   "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
   "language": "Python",
-  "stars": 66626,
-  "forks": 6082,
-  "periodStars": 746
+  "stars": 67090,
+  "forks": 6173,
+  "periodStars": 666
  },
  {
   "rank": 4,
@@ -35,9 +35,9 @@
   "url": "https://github.com/jingyaogong/minimind",
   "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
   "language": "Python",
-  "stars": 71951,
-  "forks": 9358,
-  "periodStars": 702
+  "stars": 72282,
+  "forks": 9452,
+  "periodStars": 660
  },
  {
   "rank": 5,
@@ -45,9 +45,9 @@
   "url": "https://github.com/cursor/plugins",
   "description": "Cursor plugin specification and official plugins",
   "language": "TypeScript",
-  "stars": 19874,
-  "forks": 2169,
-  "periodStars": 270
+  "stars": 20044,
+  "forks": 2241,
+  "periodStars": 243
  },
  {
   "rank": 6,
@@ -55,9 +55,9 @@
   "url": "https://github.com/firecrawl/firecrawl",
   "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
   "language": "TypeScript",
-  "stars": 211218,
-  "forks": 11073,
-  "periodStars": 1046
+  "stars": 211790,
+  "forks": 11151,
+  "periodStars": 822
  },
  {
   "rank": 7,
@@ -65,9 +65,9 @@
   "url": "https://github.com/nginx/nginx",
   "description": "The official NGINX Open Source repository.",
   "language": "C",
-  "stars": 33575,
-  "forks": 8441,
-  "periodStars": 150
+  "stars": 33687,
+  "forks": 8486,
+  "periodStars": 146
  },
  {
   "rank": 8,
@@ -75,9 +75,9 @@
   "url": "https://github.com/openvinotoolkit/openvino",
   "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
   "language": "C++",
-  "stars": 12868,
-  "forks": 3754,
-  "periodStars": 176
+  "stars": 12971,
+  "forks": 3813,
+  "periodStars": 151
  },
  {
   "rank": 9,
@@ -85,9 +85,9 @@
   "url": "https://github.com/cathrynlavery/diagram-design",
   "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
   "language": "HTML",
-  "stars": 74143,
-  "forks": 4966,
-  "periodStars": 955
+  "stars": 74526,
+  "forks": 5030,
+  "periodStars": 725
  },
  {
   "rank": 10,
@@ -95,9 +95,9 @@
   "url": "https://github.com/mvanhorn/last30days-skill",
   "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
   "language": "Python",
-  "stars": 76018,
-  "forks": 6715,
-  "periodStars": 759
+  "stars": 76441,
+  "forks": 6799,
+  "periodStars": 675
  },
  {
   "rank": 11,
@@ -105,9 +105,9 @@
   "url": "https://github.com/google-labs-code/stitch-skills",
   "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
   "language": "TypeScript",
-  "stars": 13414,
-  "forks": 1580,
-  "periodStars": 309
+  "stars": 13638,
+  "forks": 1631,
+  "periodStars": 311
  },
  {
   "rank": 12,
@@ -115,9 +115,9 @@
   "url": "https://github.com/mjmirza/app-store-compliance",
   "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
   "language": "Shell",
-  "stars": 7231,
-  "forks": 504,
-  "periodStars": 562
+  "stars": 8001,
+  "forks": 603,
+  "periodStars": 530
  },
  {
   "rank": 13,
@@ -125,9 +125,9 @@
   "url": "https://github.com/Tracer-Cloud/opensre",
   "description": "The open-source agent for CI/CD reliability.",
   "language": "Python",
-  "stars": 15957,
-  "forks": 2084,
-  "periodStars": 327
+  "stars": 16185,
+  "forks": 2163,
+  "periodStars": 328
  },
  {
   "rank": 14,
@@ -135,9 +135,9 @@
   "url": "https://github.com/toeverything/AFFiNE",
   "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
   "language": "TypeScript",
-  "stars": 79138,
-  "forks": 5775,
-  "periodStars": 525
+  "stars": 79530,
+  "forks": 5844,
+  "periodStars": 474
  },
  {
   "rank": 15,
@@ -145,9 +145,9 @@
   "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
   "description": "The only downloader you need. 下载器的集大成者。",
   "language": "Python",
-  "stars": 19488,
-  "forks": 1187,
-  "periodStars": 889
+  "stars": 19983,
+  "forks": 1272,
+  "periodStars": 836
  },
  {
   "rank": 16,
@@ -155,8 +155,8 @@
   "url": "https://github.com/zhouxiaoka/autoclip",
   "description": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
   "language": "Python",
-  "stars": 17282,
-  "forks": 2422,
-  "periodStars": 774
+  "stars": 17676,
+  "forks": 2498,
+  "periodStars": 718
  }
 ]
